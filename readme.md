@@ -1,6 +1,7 @@
 ## Projeto de Engenharia de dados: Extração de dados através de webscraping
 
 # Introdução 
+
 Using Python, Numpy, Pandas and Beautiful Soup and unique ways to collect data through APIs and webscraping with different file formats.
 
 Web scraping involves extracting information from web pages using Python. It can save time and automate data collection.
